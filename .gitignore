@@ -1,0 +1,103 @@
+# Sanal ortam
+venv/
+.venv/
+env/
+.env/
+*.env
+
+myenv/
+.myenv/
+myenv/
+*.myenv
+myenv
+
+# PyCharm ve diğer IDE'lere özgü dosyalar
+.idea/
+*.iml
+
+# Python bytecode dosyaları
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Diğer geçici dosyalar
+*.log
+*.tmp
+
+#accounts
+*.txt
+
+# Python bytecode dosyaları
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Sanal ortam klasörleri
+venv/
+.env/
+.venv/
+ENV/
+env/
+venv.bak/
+
+# Pipenv dosyaları
+Pipfile.lock
+
+# Python distribütörleri tarafından oluşturulan dosyalar
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Test çıktıları
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+*.hypothesis/
+*.tox/
+*.nox/
+.coverage
+.cache
+*.log
+
+# IDE/Editor dosyaları
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Çeşitli geçici dosyalar
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Jupyter Notebook dosyaları
+.ipynb_checkpoints/
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# PyCharm kullanıcı dosyaları
+*.iml
+.idea/
+
+
+#---
+DAFAM/__pycache__/
+DAFAM/.qrcreator/
+DAFAM/sources/DAFAM.pyproject
+DAFAM/sources/DAFAM.pyproject.user
+DAFAM/sources/form.ui
+DAFAM/sources/form.ui.autosave
+DAFAM/.qtcreator
+
+*.ui
+*.user
+*.project
+*.autosave
+*.qtcreator
